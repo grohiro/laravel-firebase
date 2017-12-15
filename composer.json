@@ -1,0 +1,24 @@
+{
+    "name": "grohiro/laravel-firebase",
+    "description": "Firebase Cloud Message for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "grohiro",
+            "email": "khirokawa@growk.jp"
+        }
+    ],
+    "require": {
+        "paragraph1/php-fcm": "^0.7.0"
+    },
+    "require-dev": {
+        "laravel/laravel": "^5.5",
+        "phpunit/phpunit": "^6.5"
+    },
+    "autoload": {
+      "psr-4": {
+        "Grohiro\\Laravel\\FCM\\": "src"
+      }
+    }
+}
