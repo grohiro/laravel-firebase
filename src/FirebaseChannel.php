@@ -27,7 +27,7 @@ class FirebaseChannel
   /**
    * @var \paragraph1\phpFCM\Client
    */
-  private $client;
+  protected $client;
 
   /**
    * @param \paragraph1\phpFCM\Client $client

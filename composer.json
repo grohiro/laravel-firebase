@@ -3,7 +3,7 @@
     "description": "Firebase Cloud Message for Laravel",
     "type": "library",
     "license": "MIT",
-    "version": "1.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "grohiro",
